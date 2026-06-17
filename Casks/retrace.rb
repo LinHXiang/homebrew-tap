@@ -1,6 +1,6 @@
 cask "retrace" do
-  version "1.0.0-rc2"
-  sha256 "f0bb1a851fc822b90f9443a2e583413f123939849e202f05ef576158a36a230b"
+  version "1.0.0"
+  sha256 "fe2aa22c328096c17e6ea606aecfba0c95c68a300fc60c7b78c66452dc50e4a8"
 
   url "https://github.com/LinHXiang/Retrace/releases/download/v#{version}/Retrace-#{version}.zip"
   name "Retrace"
